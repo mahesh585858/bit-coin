@@ -1,0 +1,6 @@
+framework module Pods_NotrichTests {
+  umbrella header "Pods-NotrichTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
